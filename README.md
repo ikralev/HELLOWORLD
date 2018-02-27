@@ -1,2 +1,5 @@
-# HELLOWORLD
-Hello world
+<?php
+
+echo "Hello from PHP";
+
+?>
